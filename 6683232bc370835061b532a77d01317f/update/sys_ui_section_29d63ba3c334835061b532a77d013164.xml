@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="29d63ba3c334835061b532a77d013164" sys_domain="global" table="x_2032008_custom_0_empgittable" version="3" view="">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_2032008_custom_0_empgittable</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-05-18 10:56:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29d63ba3c334835061b532a77d013164</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2032008_custom_0_empgittable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Custom Application Scope Created" source="x_2032008_custom_0">6683232bc370835061b532a77d01317f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Custom Application Scope Created">6683232bc370835061b532a77d01317f</sys_scope>
+            <sys_update_name>sys_ui_section_29d63ba3c334835061b532a77d013164</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-05-18 10:56:35</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
