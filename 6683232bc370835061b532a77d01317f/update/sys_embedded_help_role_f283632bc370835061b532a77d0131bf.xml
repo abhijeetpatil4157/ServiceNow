@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_2032008_custom_0.user" name="x_2032008_custom_0.user">3a83632bc370835061b532a77d0131bc</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-18 09:32:16</sys_created_on>
+        <sys_id>f283632bc370835061b532a77d0131bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3a83632bc370835061b532a77d0131bc</sys_name>
+        <sys_package display_value="Custom Application Scope Created" source="x_2032008_custom_0">6683232bc370835061b532a77d01317f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Application Scope Created">6683232bc370835061b532a77d01317f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_f283632bc370835061b532a77d0131bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-18 09:32:16</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
