@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="ee3e7363c374835061b532a77d013166" label="emp_git_table" max_length="40" name="x_2032008_custom_0_emp_git_table" type="collection"/>
+    <element db_object_id="ee3e7363c374835061b532a77d013166" label="emp_git_table" max_length="40" name="x_2032008_custom_0_emp_git_table" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
 </database>
